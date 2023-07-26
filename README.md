@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello there! :)
+#### I'm Ali, a Lebanese programmer who currently lives in Germany.
+ 
+My passion for programming developed when I was between the ages of 10 and 12, and it has only grown stronger since then.
 
-<!--
-**aliwahabdev/aliwahabdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Here are some details about me that may help you get to know me better:
+- 🔭 At the moment, I'm working on several projects that are either my own ideas or those of a friend.
+- 🌱 I'm currently learning programming languages such as Rust, C/C++, and JS/TS.
+- 👯 I'm interested in collaborating on new projects.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### If you have any questions or need assistance with anything, feel free to ask me! You can also reach me through my contact information.
+- 📫 How to reach me: aliwahabdev@skiff.com
