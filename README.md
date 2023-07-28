@@ -2,7 +2,7 @@
 
 I'm Ali, a Lebanese programmer who currently lives in Germany. 
 
-My passion for programming developed when I was between the ages of 10 and 12, and it has only grown stronger since then.
+My passion for programming developed when I was between the ages of 10 and 15, and it has only grown stronger since then.
 
 #### Here are some details about me that may help you get to know me better:
 - 🔭 At the moment, I'm working on several projects that are either my own ideas or those of a friend.
