@@ -1,6 +1,6 @@
 ## Hello there! :)
 
-I'm Ali, a Lebanese programmer who currently lives in Germany. 
+I'm Ali, a Lebanese programmer who lives in Germany. 
 
 My passion for programming developed when I was between the ages of 10 and 15, and it has only grown stronger since then.
 
