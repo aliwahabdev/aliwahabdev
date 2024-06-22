@@ -11,3 +11,6 @@ My passion for programming developed when I was between the ages of 10 and 15, a
 
 #### If you have any questions or need assistance with anything, feel free to ask me! You can also reach me through my contact information.
 - How to reach me: aliwahabdev@skiff.com
+
+![Ali](https://github-readme-stats.vercel.app/api?username=aliwahabdev&show_icons=true&theme=tokyonight)
+![Ali](https://github-readme-stats.vercel.app/api/top-langs?username=aliwahabdev&show_icons=true&theme=tokyonight&layout=compact)
