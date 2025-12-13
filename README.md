@@ -13,4 +13,3 @@ My passion for programming developed when I was between the ages of 10 and 15, a
 - How to reach me: aliwahabdev@gmail.com
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=aliwahabdev&show_icons=true&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=aliwahabdev&theme=tokyonight)
